@@ -32,7 +32,7 @@ A colleague in the Data Analytics department asks you what is the correct API ca
 Using the API documentation described here, please write an API query that will pull all the data in the table. (Optional, copy and paste a cURL request with any helpful explanations for how to achieve the desired call). 
 • Please use the Personal Access Token (see above).  
 
-> Response in file question1/question1.sh
+> Answer in file [question1/question1.sh](question1/question1.sh)
 
 Question 2:
 Your colleague mentions that there is an issue with the data for Vietnam. They claim they are seeing Vietnam and Viet Nam.
@@ -40,7 +40,7 @@ Your colleague mentions that there is an issue with the data for Vietnam. They c
  Using the API documentation described here, please write an API query that will pull just the problem record ID.  (Optional, copy and paste a cURL request with any helpful explanations for how to achieve the desired call). 
 • Please set the API Key value as keyTpI3Yfm2TvzRTV.
 
- > Response in file question2/question2.sh
+> Answer in file [question2/question2.sh](question2/question2.sh)
 
 Question 3: 
 
@@ -102,7 +102,7 @@ Header.SPEND:
 ('spend')
 }
 
-> Response in file [question3/question3.md](question3/question3.md)
+> Answer in file [question3/question3.md](question3/question3.md)
 
 Part 2 - SQL
 
@@ -229,7 +229,7 @@ TapCraze is a Singular client. You have been asked to create a working specific
 Question 7:   
 Please write a full specification that clearly explains to R&D how this data pull should be written.  
 
-> Answer in question7 folder.
+> Answer in [question7](question7/Answer.md) folder.
 
 Part 4 - Troubleshooting/External Communication
 Scenario
@@ -244,4 +244,4 @@ Please write a response back to the Fraud.ly team.
 Use the information provided in the log above, along with what you know about this case to defend why you believe the issue is on their end. 
 
  
-Answer in question8 folder
+Answer in [question8](question8/part4.md) folder
